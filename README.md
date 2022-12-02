@@ -1,4 +1,13 @@
+### Hi there, i'm Luanguto 👋
 
+
+
+
+- 🔭 I’m currently working on full stack developer
+- 🌱 I’m currently learning python 
+- 🤔 I’m looking for help with new projects
+
+##
 
 <div align="center">
   <a href="https://github.com/luanguto">
