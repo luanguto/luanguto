@@ -1,5 +1,7 @@
-### Hi there, i'm Luan Augusto👋
 
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Verdana&pause=1000&color=60FFCA&center=true&vCenter=true&width=435&lines=Oi%2C+Olá,+eu+sou+o+Luan!;Dev+Full-Stack+em+Forma%C3%A7%C3%A3o!" alt="Typing SVG" /></a>
+</h1>
 
 ##
 
